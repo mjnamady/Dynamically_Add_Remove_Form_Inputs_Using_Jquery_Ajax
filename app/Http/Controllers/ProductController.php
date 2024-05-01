@@ -22,6 +22,7 @@ class ProductController extends Controller
             $qeury->save();
 
             // Alternatively! Using query builder
+            
             // $data = [
             //     'product' => $productName[$i],
             //     'price' => $productPrice[$i],
